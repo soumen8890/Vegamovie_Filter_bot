@@ -1,6 +1,6 @@
 import os
 class script(object):
-    START_TXT = """<b>ʜᴇʏ {}, {}\n\nɪ ᴀᴍ ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏꜰɪʟᴛᴇʀ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɪ ᴡɪʟʟ ɢɪᴠᴇ ᴍᴏᴠɪᴇs ᴏʀ sᴇʀɪᴇs ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴘᴍ !! 😍\n<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/vegamoviesnewin">vegamoviesnewin</a></blockquote></b>"""
+    START_TXT = """<b>ʜᴇʏ {}, {}\n\nɪ ᴀᴍ ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏꜰɪʟᴛᴇʀ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɪ ᴡɪʟʟ ɢɪᴠᴇ ᴍᴏᴠɪᴇs ᴏʀ sᴇʀɪᴇs ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴘᴍ !! 😍\n<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/soumen98890">vegamoviesnewin</a></blockquote></b>"""
     
     HELP_TXT = """<b>ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..</b>"""
     
@@ -36,10 +36,10 @@ class script(object):
 
 ᴀʟʟ ᴛʜᴇ ꜰɪʟᴇꜱ ɪɴ ᴛʜɪꜱ ʙᴏᴛ ᴀʀᴇ ꜰʀᴇᴇʟʏ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛʜᴇ ɪɴᴛᴇʀɴᴇᴛ ᴏʀ ᴘᴏꜱᴛᴇᴅ ʙʏ ꜱᴏᴍᴇʙᴏᴅʏ ᴇʟꜱᴇ. ᴊᴜꜱᴛ ꜰᴏʀ ᴇᴀꜱʏ ꜱᴇᴀʀᴄʜɪɴɢ ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɪɴᴅᴇxɪɴɢ ꜰɪʟᴇꜱ ᴡʜɪᴄʜ ᴀʀᴇ ᴀʟʀᴇᴀᴅʏ ᴜᴘʟᴏᴀᴅᴇᴅ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ. ᴡᴇ ʀᴇꜱᴘᴇᴄᴛ ᴀʟʟ ᴛʜᴇ ᴄᴏᴘʏʀɪɢʜᴛ ʟᴀᴡꜱ ᴀɴᴅ ᴡᴏʀᴋꜱ ɪɴ ᴄᴏᴍᴘʟɪᴀɴᴄᴇ ᴡɪᴛʜ ᴅᴍᴄᴀ ᴀɴᴅ ᴇᴜᴄᴅ. ɪꜰ ᴀɴʏᴛʜɪɴɢ ɪꜱ ᴀɢᴀɪɴꜱᴛ ʟᴀᴡ ᴘʟᴇᴀꜱᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ꜱᴏ ᴛʜᴀᴛ ɪᴛ ᴄᴀɴ ʙᴇ ʀᴇᴍᴏᴠᴇᴅ ᴀꜱᴀᴘ. ɪᴛ ɪꜱ ꜰᴏʀʙɪʙʙᴇɴ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ, ꜱᴛʀᴇᴀᴍ, ʀᴇᴘʀᴏᴅᴜᴄᴇ, ꜱʜᴀʀᴇ ᴏʀ ᴄᴏɴꜱᴜᴍᴇ ᴄᴏɴᴛᴇɴᴛ ᴡɪᴛʜᴏᴜᴛ ᴇxᴘʟɪᴄɪᴛ ᴘᴇʀᴍɪꜱꜱɪᴏɴ ꜰʀᴏᴍ ᴛʜᴇ ᴄᴏɴᴛᴇɴᴛ ᴄʀᴇᴀᴛᴏʀ ᴏʀ ʟᴇɢᴀʟ ᴄᴏᴘʏʀɪɢʜᴛ ʜᴏʟᴅᴇʀ. ɪꜰ ʏᴏᴜ ʙᴇʟɪᴇᴠᴇ ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴠɪᴏʟᴀᴛɪɴɢ ʏᴏᴜʀ ɪɴᴛᴇʟʟᴇᴄᴛᴜᴀʟ ᴘʀᴏᴘᴇʀᴛʏ, ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ ʀᴇꜱᴘᴇᴄᴛɪᴠᴇ ᴄʜᴀɴɴᴇʟꜱ ꜰᴏʀ ʀᴇᴍᴏᴠᴀʟ. ᴛʜᴇ ʙᴏᴛ ᴅᴏᴇꜱ ɴᴏᴛ ᴏᴡɴ ᴀɴʏ ᴏꜰ ᴛʜᴇꜱᴇ ᴄᴏɴᴛᴇɴᴛꜱ, ɪᴛ ᴏɴʟʏ ɪɴᴅᴇx ᴛʜᴇ ꜰɪʟᴇꜱ ꜰʀᴏᴍ ᴛᴇʟᴇɢʀᴀᴍ. 
 
-<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/vegamoviesnewin'>vegamoviesnewin</a></b></blockquote>"""
+<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/soumen98890'>SOUMEN</a></b></blockquote>"""
     
 
-    ABOUT_TEXT = """<blockquote><b>‣ ᴍʏ ɴᴀᴍᴇ : Mahesh</blockquote></b>\n<blockquote><b>‣ ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/Mahesh8182'>Mahesh8182</a></blockquote></b>\n<blockquote><b>‣ ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</blockquote></b>\n<blockquote><b>‣ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ</blockquote></b>\n<blockquote><b>‣ ᴅᴀᴛᴀ ʙᴀsᴇ : ᴍᴏɴɢᴏ ᴅʙ</blockquote></b>\n<blockquote><b>‣ ʜᴏsᴛᴇᴅ ᴏɴ  : ᴀʟʟ ᴡᴇʙ</blockquote></b>\n<blockquote><b>‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ5.2 [sᴛᴀʙʟᴇ]</b></blockquote>"""    
+    ABOUT_TEXT = """<blockquote><b>‣ ᴍʏ ɴᴀᴍᴇ : SOUMEN</blockquote></b>\n<blockquote><b>‣ ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/soumen98890'>SOUMEN</a></blockquote></b>\n<blockquote><b>‣ ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</blockquote></b>\n<blockquote><b>‣ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ</blockquote></b>\n<blockquote><b>‣ ᴅᴀᴛᴀ ʙᴀsᴇ : ᴍᴏɴɢᴏ ᴅʙ</blockquote></b>\n<blockquote><b>‣ ʜᴏsᴛᴇᴅ ᴏɴ  : ᴀʟʟ ᴡᴇʙ</blockquote></b>\n<blockquote><b>‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ5.2 [sᴛᴀʙʟᴇ]</b></blockquote>"""    
     
     SUPPORT_GRP_MOVIE_TEXT = '''<b>ʜᴇʏ {}
 
@@ -115,8 +115,13 @@ User - {}"""
 ⭐ Rating: {rating} / 10</b>
 """
 
-    FILE_CAPTION = """<blockquote><b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「 @𝙑𝙀𝙂𝘼𝙈𝙊𝙑𝙄𝙀𝙎𝙉𝙀𝙒𝙄𝙉 」</b></blockquote>"""
-    
+    FILE_CAPTION = """📂 File ➛ <code>{file_name}</code>
+<blockquote>⏤‌‌ 𝗝⌡𝗼𝗶𝗻 ➥  「@Spportgroup89」
+⏤‌‌ 𝗝⌡𝗼𝗶𝗻 ➥  「 @movieguru9980 」</blockquote>
+▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱
+<blockquote>𝙉ote :- 𝙋𝙡𝙚𝙖𝙨𝙚 𝙪𝙨𝙚 𝙈𝙓 𝙋𝙡𝙖𝙮𝙚𝙧 𝙤𝙧 𝙑𝙇𝘾 𝙋𝙡𝙖𝙮𝙚𝙧 𝙩𝙤 𝙋𝙡𝙖𝙮 𝙏𝙝𝙞𝙨 𝙑𝙞𝙙𝙚𝙤.𝘽𝙪𝙩 𝙄𝙛 𝙔𝙤𝙪'𝙧𝙚 𝙁𝙖𝙘𝙞𝙣𝙜 𝘼𝙣𝙮 𝘼𝙪𝙙𝙞𝙤 𝙍𝙚𝙡𝙖𝙩𝙚𝙙 𝙄𝙨𝙨𝙪𝙚𝙨 𝙞𝙣 𝙈𝙓 𝙋𝙡𝙖𝙮𝙚𝙧,𝙏𝙝𝙚𝙣 𝘿𝙤 𝙆𝙞𝙣𝙙𝙡𝙮 𝙪𝙨𝙚 𝙑𝙇𝘾 𝙋𝙡𝙖𝙮𝙚𝙧.</blockquote>
+
+<blockquote>🧩DONATE➛ <code>souemn007@oksbi</code></blockquote>"""
 
     ALRT_TXT = """ᴊᴀʟᴅɪ ʏᴇʜᴀ sᴇ ʜᴀᴛᴏ !"""
 
@@ -257,25 +262,22 @@ User - {}"""
 
     FREE_TXT = """<b>👋 ʜᴇʏ {}
     
-<blockquote>🎖️𝗿𝗲𝗴𝗶𝘀𝘁𝗲𝗿 𝗠𝗘𝗟𝗕𝗘𝗧 𝘀𝗶𝘁𝗲 𝘁𝗼 𝗴𝗲𝘁 𝗣𝗿𝗶𝗺𝗶𝘂𝗺 :</blockquote>
+<blockquote>🎖️ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴꜱ :</blockquote>
 
-𝗿𝗲𝗴𝗶𝘀𝘁𝗲𝗿 𝗠𝗘𝗟𝗕𝗘𝗧 𝘀𝗶𝘁𝗲 𝘁𝗼 𝗴𝗲𝘁 𝗣𝗿𝗶𝗺𝗶𝘂𝗺➠    12 ᴍᴏɴᴛʜ
+ ❏ 𝟶3₹    ➠    𝟶𝟷 ᴡᴇᴇᴋꜱ
+ ❏ 𝟶10₹    ➠    𝟶𝟷 ᴍᴏɴᴛʜ
+ ❏ 𝟶19₹    ➠    𝟶𝟸 ᴍᴏɴᴛʜ
+ ❏ 035₹    ➠    𝟶𝟹 ᴍᴏɴᴛʜ
+ ❏ 069₹    ➠    𝟶𝟼 ᴍᴏɴᴛʜ
+ ❏ 099₹    ➠    𝟷𝟸 ᴍᴏɴᴛʜ
 
-𝑳𝒊𝒏𝒌 https://refpa3665.com/L?tag=d_4623030m_53523c_&site=4623030&ad=53523&r=registration
-
-𝒉𝒂𝒎𝒂𝒓𝒆 𝒑𝒓𝒐𝒎𝒐𝒄𝒐𝒅𝒆 𝒔𝒆𝒉𝒊 𝒓𝒆𝒈𝒊𝒔𝒕𝒓𝒂𝒕𝒊𝒐𝒏 𝒌𝒂𝒓𝒏𝒂 𝒉𝒂𝒊
-
-𝗣𝗥𝗢𝗠𝗢𝗖𝗢𝗗𝗘    <code>𝗔𝗞𝗜𝗠𝗔𝗫𝟬𝟯</code> [𝚃𝚊𝚙 𝚝𝚘 𝚌𝚘𝚙𝚢]
-
-𝗡𝗢𝗧𝗘 : 𝑭𝒊𝒓𝒔𝒕 𝒅𝒆𝒑𝒐𝒔𝒊𝒕 𝒌𝒂𝒓𝒌𝒆 𝒉𝒂𝒎𝒆 𝒔𝒄𝒓𝒆𝒆𝒏 𝒔𝒉𝒐𝒕 𝒃𝒉𝒆𝒋𝒆
-
-𝑭𝒊𝒓𝒔𝒕 𝑫𝒆𝒑𝒐𝒔𝒊𝒕 100% 𝑩𝒐𝒖𝒏𝒄𝒆 𝑴𝒊𝒍𝒆𝒈𝒂
-
-𝑻𝒂𝒃𝒉𝒊 𝒂𝒂𝒑𝒌𝒂 𝑷𝑹𝑰𝑴𝑰𝑼𝑴 𝒔𝒕𝒂𝒓𝒕 𝒉𝒐𝒈𝒂
+🆔 ᴜᴘɪ ɪᴅ ➩ <code>souemn007@oksbi</code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
  
 ⛽️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ: /myplan
 
-‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ 𝒅𝒆𝒑𝒐𝒔𝒊𝒕.
+🏷️ <a href='https://t.me/Subcription890'>ᴘʀᴇᴍɪᴜᴍ ᴘʀᴏᴏꜰ</a>
+
+‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.
 ‼️ ɢɪᴠᴇ ᴜꜱ ꜱᴏᴍᴇᴛɪᴍᴇ ᴛᴏ ᴀᴅᴅ ʏᴏᴜ ɪɴ ᴘʀᴇᴍɪᴜᴍ ʟɪꜱᴛ.
 </b>"""
 
@@ -346,9 +348,9 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀ�
 
     SOURCE_TXT = """<b>
 NOTE:
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<blockquote><a href="https://t.me/vegamoviesnewin">𝘃𝗲𝗴𝗮𝗺𝗼𝘃𝗶𝗲𝘀𝗻𝗲𝘄𝗶𝗻-𝗙𝗶𝗹𝘁𝗲𝗿-𝗕𝗼𝘁</a></blockquote>
+- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<blockquote><a href="https://t.me/soumen98890">SPIDEY 5.2~</a></blockquote>
 
-developer : Mr.Mahesh
+developer : SOUMEN
 </b>""" 
     GROUP_C_TEXT = """<b><blockquote>
  --------------Set Verify-------------
@@ -378,6 +380,7 @@ developer : Mr.Mahesh
 ʙʏ /details ᴄᴏᴍᴍᴀɴᴅ
 </blockquote>
 Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛs ᴘʟᴇᴀsᴇ <a href="https://t.me/Mahesh8182">ᴄᴏɴᴛᴀᴄᴛ</a> ᴍʏ <a href="https://t.me/Mahesh8182">ᴀᴅᴍɪɴ</a></b>"""
+
 
 
 
